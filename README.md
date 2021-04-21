@@ -1,4 +1,4 @@
-# Welcome to my project page of the Workbench Unix 
+# The Workbench Unix Project 
 #### By xr-vivi
 
 ## About Me
@@ -11,8 +11,8 @@
 - guessinggame.sh 
 *welcome to play this guessing game which will continue to ask you until you give the correct number*
 
-### Word count of guessinggame.sh:
+##### Line count of guessinggame.sh:
 22 guessinggame.sh
 
 
-2021-04-21T18:20:09+08:00 make is ran
+2021-04-21T18:27:18+08:00 make is ran
