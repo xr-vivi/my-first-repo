@@ -1,16 +1,18 @@
-# iamVivi
+# The Workbench Unix Project 
+#### By xr-vivi
 
-### Geography
+## About Me
+*A coffee adict, a programming learner.*
 
-I live in Singapore.
+## About the page
+*This page is created for the project.*
+- README.md 
+- makefile 
+- guessinggame.sh 
+*welcome to play this guessing game which will continue to ask you until you give the correct number*
 
-### Reading
+##### Line count of guessinggame.sh:
+22 guessinggame.sh
 
-Fact about me:
-- *Coffee addict* every day starts with a cup of coffee
-- *Artist* like painting
-- This is a *Exercise* that I am learning Git and GitHub
 
-### Contact
-
-Get in touch [Instagram](https://www.instagram.com/rrxinrui/).
+2021-04-21T18:27:18+08:00 make is ran
