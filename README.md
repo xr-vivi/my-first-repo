@@ -1,28 +1,16 @@
-# This is a large heading
+# iamVivi
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Singapore.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Fact about me:
+- *Coffee addict* every day starts with a cup of coffee
+- *Artist* like painting
+- This is a *Exercise* that I am learning Git and GitHub
 
-Here is `some code` in the middle of a sentence.
+### Contact
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Get in touch [Instagram](https://www.instagram.com/rrxinrui/).
