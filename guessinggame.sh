@@ -5,7 +5,7 @@ while [[ $count -gt 0 ]]
 do
 	echo "[Guess] How many files in the current directory?"
 	read answer
-
+	
 	if [[ $answer -gt $files ]]
 	then
 		echo "your guess is too high. Please try again!"
