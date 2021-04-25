@@ -4,6 +4,7 @@ find . -maxdepth 1 -type f -print0 | tr -dc '\0' | wc -c
 }
 files=$(count_files)
 
+#Game start
 count=1
 
 while [[ $count -gt 0 ]]
