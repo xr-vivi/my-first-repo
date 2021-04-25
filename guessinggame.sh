@@ -1,5 +1,10 @@
+#count of files
+function count_files {
+find . -maxdepth 1 -type f -print0 | tr -dc '\0' | wc -c
+}
+files=$(count_files)
+
 count=1
-files=13
 
 while [[ $count -gt 0 ]]
 do
